@@ -1,0 +1,41 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "course": "Mathematics"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "course": "Physics"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "course": "Computer Science"
+    },
+    {
+      "name": "james",
+      "course": "Mathematics",
+      "id": 4
+    },
+    {
+      "name": "victor",
+      "course": "Economics",
+      "id": 5
+    },
+    {
+      "name": "caly",
+      "course": "Art",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Ezra Raddai",
+      "password": "22195dbdc83edbed3d9e931f48fc2349c4d486704b4edeb9119b60cb7afc80e0"
+    }
+  ]
+}
