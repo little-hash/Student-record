@@ -29,6 +29,11 @@
       "name": "caly",
       "course": "Art",
       "id": 6
+    },
+    {
+      "name": "grace",
+      "course": "Philosophy",
+      "id": 7
     }
   ],
   "users": [
@@ -36,6 +41,16 @@
       "id": 1,
       "username": "Ezra Raddai",
       "password": "22195dbdc83edbed3d9e931f48fc2349c4d486704b4edeb9119b60cb7afc80e0"
+    },
+    {
+      "id": 2,
+      "username": "",
+      "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": 3,
+      "username": "reuben",
+      "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225"
     }
   ]
 }
