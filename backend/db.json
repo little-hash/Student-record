@@ -51,6 +51,11 @@
       "id": 3,
       "username": "reuben",
       "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225"
+    },
+    {
+      "id": 4,
+      "username": "bianca",
+      "password": "a0bd500821a86e562ff1a1ab1d85caca8f3ddd287a0a3267536f9a1b7335cfb3"
     }
   ]
 }
